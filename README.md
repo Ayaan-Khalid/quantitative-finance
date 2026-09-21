@@ -1,4 +1,4 @@
-# Algorithmic Trading 
+# Quantitave Finance
 
 These projects reflect my interest in the intersection of statistics, financial theory, and programming. Each project explores a different strategy archetype, with a focus on rigorous backtesting, honest performance evaluation, and understanding ***why*** strategies work or fail, not just whether they do.
 
